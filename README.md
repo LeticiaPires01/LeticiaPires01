@@ -4,4 +4,4 @@
 - Aprendendo C e C++
 - Procurando por oportunidades de estágio
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeticiaPires01&show_icons=true&theme=dracula)](https://github.com/LeticiaPires01/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeticiaPires01&show_icons=true&theme=midnight-purple)](https://github.com/LeticiaPires01/github-readme-stats)
